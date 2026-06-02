@@ -1,7 +1,7 @@
 package org.example.recappokemon.service;
 
 import org.example.recappokemon.dto.PokeDto;
-import org.example.recappokemon.model.Pokemon;
+import org.example.recappokemon.dto.Pokemon;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClient;
 

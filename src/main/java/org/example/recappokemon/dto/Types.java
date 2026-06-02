@@ -1,4 +1,4 @@
-package org.example.recappokemon.model;
+package org.example.recappokemon.dto;
 
 import java.util.List;
 
