@@ -2,7 +2,7 @@ package org.example.recappokemon.dto;
 
 import java.util.List;
 
-public record Pokemon(
+public record PokemonApiDto(
         String id,
         String name,
         Sprites sprites,
